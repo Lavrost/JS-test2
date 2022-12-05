@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T19:22:57.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.0.2500 Yowser/2.5 Safari/537.36" version="20.6.0" etag="A1jwkNp6ibgYiWK23azi" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T19:26:04.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.0.2500 Yowser/2.5 Safari/537.36" version="20.6.0" etag="p3A6USt0p4dp0P47Kk7N" type="github">
   <diagram id="o4QE3T5aMlZiqQJANwRK" name="Страница 1">
     <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,6 +63,39 @@
         </mxCell>
         <mxCell id="A6V8mcxBLSklD42HYJyb-18" value="Логика сборки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;rotation=-20;" vertex="1" parent="1">
           <mxGeometry x="520" y="111" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A6V8mcxBLSklD42HYJyb-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A6V8mcxBLSklD42HYJyb-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="499" as="sourcePoint" />
+            <mxPoint x="320" y="559" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A6V8mcxBLSklD42HYJyb-20" value="end" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A6V8mcxBLSklD42HYJyb-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A6V8mcxBLSklD42HYJyb-16" target="A6V8mcxBLSklD42HYJyb-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="610" as="sourcePoint" />
+            <mxPoint x="440" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A6V8mcxBLSklD42HYJyb-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="740" as="sourcePoint" />
+            <mxPoint x="440" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A6V8mcxBLSklD42HYJyb-24" value="Логика завершения" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="570" y="610" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A6V8mcxBLSklD42HYJyb-25" value="Дописать параметры на вход и вызываемые ф-ии" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
